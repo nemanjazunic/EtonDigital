@@ -1,3 +1,15 @@
+# Allure reports
+allure-results
+
+# VSCode
+.vs/*
+
+# package-lock file
+package-lock.json
+
+# playwright perorts folder
+playwright-report
+
 # Logs
 logs
 *.log

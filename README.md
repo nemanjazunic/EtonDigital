@@ -1,7 +1,5 @@
 #### Install Node
-- winget install Schniz.fnm
-- fnm env --use-on-cd | Out-String | Invoke-Expression
-- fnm use --install-if-missing 20
+- winget install OpenJS.NodeJS.LTS
 
 #### Install npm
 - npm install -g npm

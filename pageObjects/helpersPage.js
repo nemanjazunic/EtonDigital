@@ -1,4 +1,5 @@
 export class HelpersPage {
+
   generateRandomString(length) {
     const crypto = require("crypto");
 
